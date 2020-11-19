@@ -1,6 +1,4 @@
-![banner](https://twitter.com/FrontMuc/header_photo)
-
-![Library Banner](https://res.cloudinary.com/alvarosaburido/image/upload/v1589993773/portfolio/web/vue-dynamic-forms/open-graph-preview_kv4glm.png)
+![banner](https://pbs.twimg.com/profile_banners/773211565063626752/1501706431/1500x500)
 
 # Deep Dive into Vue Dynamic Forms
 
